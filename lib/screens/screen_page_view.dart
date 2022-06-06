@@ -27,7 +27,7 @@ class _ScreenPageViewState extends State<ScreenPageView> {
                 child: Column(
                   children: [
                     Text(
-                      "Title",
+                      "Title", 
                       style: TextStyle(
                         fontSize: 23,
                         color: Colors.orange,
